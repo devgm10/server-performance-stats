@@ -23,3 +23,8 @@ You are required to write a script server-stats.sh that can analyse basic server
 <p align="center">
   <img src="./img/screenshot-001.png" alt="screenshot-001" width="900">
 </p>
+
+## Project URL
+```bash
+https://roadmap.sh/projects/server-stats
+```
